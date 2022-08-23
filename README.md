@@ -1,5 +1,7 @@
 - 👋 Hi, my name is Michał Woźniak (@Xtry333)
-- 💻 I’m a software developer, I code mainly in TypeScript, I know advanced Java and C#. Sometimes I do scripts in Python or Bash, I'm also creating for Android
+- 💻 I’m a software developer, I code mainly in TypeScript, know advanced Java and some C#. Sometimes I do scripts in Python or Bash, I also have created few things for Android
+- 🎮 Main hobby is gaming. I do love to play :)
+- 🛰️ Another one is microcontrollers, I have some Raspberrys, Arduinos and other electronic stuff lying around me quite often
 - 🌍 My native language is Polish however I speak English at quite advanced level (imho ;) )
 - 📫 [LinkedIn](https://www.linkedin.com/in/woz-michal/)
 
